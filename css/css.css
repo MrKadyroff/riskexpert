@@ -1,0 +1,34 @@
+label{
+	font-size: 18px;
+	font-weight: 300;
+	padding: 5px;
+
+}
+input{
+	border-radius: 7px;
+	outline: none;
+	padding-left: 5px;
+	font-style: oblique;
+	font-weight: 700;
+	font-family: monospace;
+	font-size: 15px;
+	border:solid #2e41b6 1px ;
+	
+}
+select{
+
+	border-radius: 7px;
+	outline: none;
+	padding-left: 5px;
+	font-style: oblique;
+	font-weight: 700;
+	font-family: monospace;
+	font-size: 15px;
+	border:solid #2e41b6 1px ;
+}
+
+#inf2 {
+	border:dotted 3px white;
+	border-radius: 11px;
+	width: 110%;
+}
